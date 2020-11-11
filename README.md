@@ -1,5 +1,6 @@
 # Compiler-Construction Lab Assignment
 
+****
 [LAB 1](https://github.com/Sianwa/Compiler-Construction-LABS/blob/master/lab1.py)
 I built a simple lexical analyser using python. Using a simple code declaration as an exmaple,'int result = 100', the program tokenizes the code.
 
@@ -16,6 +17,9 @@ The output generated is:
 ``````
 The scanner identified four tokens from the sample code.
 
+****
+
+## Bonus Lab
 [Bonus FLEX Lab](https://github.com/Sianwa/Compiler-Construction-LABS/tree/master/FLEX%20Lab)
 FLex(Fast LEXical analyzer generator) is a tool for generating scanners. Instead of writing a scanner from scratch, you only need to identify the vocabulary of a certain language.( In this case its C Programming Langugae)
 ### Requirements

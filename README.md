@@ -13,17 +13,16 @@ The output generated is:
 ['OPERATOR', '='],
 ['INTEGER', '10']
 '10']
-
 ``````
 The scanner identified four tokens from the sample code.
 
-[Bonus FLEX Lab] (https://github.com/Sianwa/Compiler-Construction-LABS/tree/master/FLEX%20Lab)
+[Bonus FLEX Lab](https://github.com/Sianwa/Compiler-Construction-LABS/tree/master/FLEX%20Lab)
 FLex(Fast LEXical analyzer generator) is a tool for generating scanners. Instead of writing a scanner from scratch, you only need to identify the vocabulary of a certain language.( In this case its C Programming Langugae)
 ### Requirements
 1. Installed FLEX
 2. Installed MinGW
 
-The lexical program is fond in the file [analyzer.l] (https://github.com/Sianwa/Compiler-Construction-LABS/blob/master/FLEX%20Lab/analyzer.l). It contains three sections 
+The lexical program is fond in the file [analyzer.l](https://github.com/Sianwa/Compiler-Construction-LABS/blob/master/FLEX%20Lab/analyzer.l). It contains three sections 
 ``````
 %{
 //contains the global variables

@@ -12,7 +12,7 @@ The output generated is:
 ['IDENTIFIER', 'result'],
 ['OPERATOR', '='],
 ['INTEGER', '10']
-'10']
+
 ``````
 The scanner identified four tokens from the sample code.
 

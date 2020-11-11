@@ -47,3 +47,6 @@ The executable analyzes its input stream and transforms it into a sequence of to
 ### Example
 A C program to find the sum of two integers.
 ![](carbon%20(2).png)
+
+The output as seen in the terminal
+![](response.png)

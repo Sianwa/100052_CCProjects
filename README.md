@@ -49,4 +49,5 @@ A C program to find the sum of two integers.
 ![](carbon%20(2).png)
 
 The output as seen in the terminal
+
 ![](response.PNG)

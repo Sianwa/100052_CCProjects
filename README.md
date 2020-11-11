@@ -1,6 +1,5 @@
 # Compiler-Construction Lab Assignment
 
-****
 [LAB 1](https://github.com/Sianwa/Compiler-Construction-LABS/blob/master/lab1.py)
 I built a simple lexical analyser using python. Using a simple code declaration as an exmaple,'int result = 100', the program tokenizes the code.
 
@@ -49,6 +48,7 @@ The executable analyzes its input stream and transforms it into a sequence of to
 
 ### Example
 A C program to find the sum of two integers.
+
 ![](carbon%20(2).png)
 
 The output as seen in the terminal
